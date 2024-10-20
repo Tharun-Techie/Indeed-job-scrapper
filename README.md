@@ -1,6 +1,13 @@
 # Job Scraper and Viewer
 
 This is a Tkinter-based job scraper and viewer application that allows users to search for jobs on Indeed based on position and location. The application scrapes job listings, saves them to a CSV file, and displays them in a GUI.
+## ScreenShots
+
+![Image 1](Screenshots/1.png)
+![Image 2](Screenshots/2.png)
+![Image 3](Screenshots/3.png)
+![Image 4](Screenshots/4.png)
+
 
 ## Features
 
