@@ -74,5 +74,6 @@ If you encounter any issues, verify that the required packages are installed and
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+# future updates - need to add ui ux
 
 author Tharun R
